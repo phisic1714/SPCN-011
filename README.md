@@ -1,5 +1,5 @@
 # SPCN-011
-<p align="center"> <img src="Screenshots/logo.png"width=600 alt="Paris" width=6200"></p>
+<p align="center"><a href="https://pve22.ipv9.me/#v1:0:18:4:::::::"> <img src="Screenshots/logo.png"width=300 alt="Paris"></p>
 
 # <p align="center">ขั้นตอนในการสร้าง vm and ct on Proxmox cluster บน Proxmox</p>
 
@@ -18,7 +18,7 @@
 [top⬆️](#spcn-011)
 1. กดเลือกปุ่ม **Create VM**
 
-<p align="center"> <img src="Screenshots/(39-1).png"width=600 width=6350' ></p>
+<p align="center"> <img src="Screenshots/(39-1).png" ></p>
 
 2. กรอกช่อง **Name** โดยตั้ง [ *ตัวอักษรชื่อภาษาอังกฤษตัวเองอย่างน้อย 3 ตัว-เลข VM ID* ] และช่องDropdown **Resource Pool** ให้เลือก [ *Special_CN* ] แล้วกด **Next**
 
