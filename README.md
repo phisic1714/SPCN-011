@@ -1,6 +1,6 @@
-<h align="center">
+<p align="center">
  ขั้นตอนในการสร้าง vm and ct on Proxmox cluster
-</h>
+</p>
 
 ![](Screenshots/(39).png)
 
