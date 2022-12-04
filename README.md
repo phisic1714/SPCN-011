@@ -1,2 +1,2 @@
 # SPCN-011
-![My Image](Screenshots/(39).png)
+![My Image](Screenshots/(39).png | width=100)
