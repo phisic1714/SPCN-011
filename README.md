@@ -1,4 +1,4 @@
-<p align="center"> <img src="Screenshots/logo.png" alt="Paris" width="100"></p>
+<p align="center"> <img src="Screenshots/logo.png" alt="Paris" width="200"></p>
 
 # <p align="center">ขั้นตอนในการสร้าง vm and ct on Proxmox cluster</p>
 
