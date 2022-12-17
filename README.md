@@ -9,7 +9,6 @@
 [เปิดใช้ qemu guest agent และตั้ง localtime update ของ os](#เปิดใช้-qemu-guest-agent-และ-ตั้ง-local-time-update-ของ-os)|
 |[สร้าง vm จาก os ตัวอื่นๆ](#สร้าง-vm-จาก-os-ตัวอื่นๆ)|
 |[สร้าง container template (เลือกจาก CT list)](#สร้าง-container-template-เลือกจาก-ct-list)|
-|[สรุป](#สรุป)|
 
 
 
@@ -152,11 +151,6 @@
 
 <p align="center"> <img src="Screenshots/(64).png"width=600><p>
 <p align="center"> <img src="Screenshots/(65).png"width=600><p>
-
-
-## สรุป
--------------
-[top⬆️](#spcn-011)
 
 
 
