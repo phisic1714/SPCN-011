@@ -126,6 +126,7 @@
 
 3. ใช้คำสั่งต่อไปนี้เพื่อติดตั้ง **QEMU Guest Agent**
     ```
+    sudo apt-get update 
     sudo apt install qemu-guest-agent
     ```
 
